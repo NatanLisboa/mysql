@@ -1,2 +1,2 @@
 # mysql
-Repositório para aulas e exercícios de um curso básico do SGBD MySQL
+Repositório para scripts feitos no Sistema Gerenciador de Banco de Dados MySQL
